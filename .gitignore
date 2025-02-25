@@ -8,3 +8,5 @@ __pycache__/
 # Ignore environment config
 .env
  
+# Ignore large file
+faiss_index.bin
