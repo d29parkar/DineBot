@@ -1,0 +1,1555 @@
+menu_id,menu_category,restaurant_id
+1,no proof,1
+2,pet-nat & sparkling wine,1
+3,dessert,1
+4,mains,1
+5,snacks,1
+6,boards,1
+7,small plates,1
+8,pizza,1
+9,beer,1
+10,rosè,1
+11,red wine,1
+12,champagne,1
+13,sparkling,1
+14,dessert wine,1
+15,white,1
+16,vermouth,1
+17,tuesday -thursday 5 course -extras,2
+18,happy hour menu,2
+19,a la carte,2
+20,chefs tasting,2
+21,dessert,2
+22,chefs tasting - supplements,2
+23,dessert - dammann freres tea,2
+24,dessert - illy coffee,2
+25,vegan chefs tasting,2
+26,wine list - champagne by the bottle,2
+27,vegetarian chefs tasting,2
+28,tuesday -thursday 5 course,2
+29,sweet dessert wines,2
+30,dessert - fortified wines,2
+31,wine list - pinot noir by the bottl,2
+32,vegetarian,3
+33,crispy goodies,3
+34,seafood,3
+35,signature sandwiches,3
+36,sides & misc,3
+37,loaded fries,3
+38,lunch (takeout only),4
+39,today's special bento box,4
+40,soup,4
+41,double protein,4
+42,drinks,5
+43,available 11-9pm,5
+44,breakfast available 10-2 pm every day,5
+45,especiales,5
+46,breakfast scramblers,6
+47,sandwiches,6
+48,beverages,6
+49,breakfast side order,6
+50,burgers,6
+51,breakfast,6
+52,breakfast omelettes,6
+53,"breakfast pancakes, french toast & waffles",6
+54,sides,7
+55,coop,7
+56,pasture,7
+57,sea,7
+58,plains,7
+59,specials,7
+60,pen,7
+61,garden,7
+62,antigua guatemala restaurante menú para niños / antigua guatemala restaurant kid's menu,8
+63,bebidas calientes / hot drinks,8
+64,caldos / soups,8
+65,antigua guatemala - menú principal,8
+66,antojitos guatemaltecos / guatemalan cravings,8
+67,desayunos a la antigua / breakfast,8
+68,postres / desserts,8
+69,bebidas / beverages,8
+70,cajun style fish,9
+71,famous shrimp,9
+72,crispy chicken,9
+73,cajun tenders,9
+74,chicken & biscuit,9
+75,pasta classica,9
+76,topings,9
+77,gourmet,9
+78,sides,9
+79,burgers & cambos,9
+80,specials,9
+81,juice & drinks,9
+82,famous salads,9
+83,classic & special,9
+84,party wings,9
+85,florentine steaks,9
+86,famous desserts,9
+87,desserts,9
+88,wraps & burritos,9
+89,family platters feast,9
+90,combos,9
+91,appetizers,9
+92,dressings,9
+93,pasta classicapasta classica,9
+94,appetizers & salads,9
+95,monthly deals,9
+96,grandma lasagna,9
+97,tacos,9
+98,appetizers,10
+99,chef's recommendations,10
+100,vermicelli & noodle soup,10
+101,drinks & desserts,10
+102,woven rice noodle sheets,10
+103,rice platters,10
+104,sides,10
+105,garlic noodle,10
+106,pho,10
+107,vegetarian,10
+108,sandwiches,11
+109,coffee + espresso drinks,11
+110,burgers,11
+111,sips,11
+112,breakfast sandwiches,11
+113,breakfast burritos,11
+114,side kicks,11
+115,salads,11
+116,beer,11
+117,baked,12
+118,deep fried,12
+119,boiled dumplings,12
+120,wok & fried,12
+121,dessert,12
+122,bao,12
+123,small plate,12
+124,pan fried,12
+125,salt & pepper,12
+126,steamed dim sum,12
+127,special combo,13
+128,makimono sushi rolls,13
+129,special rolls,13
+130,nigiri sushi,13
+131,sashimi,13
+132,rice bowls,13
+133,side orders,13
+134,fish & chips,13
+135,ceviche,13
+136,soup & salads,13
+137,sandwiches,13
+138,main,14
+139,taquitos,14
+140,platos,14
+141,tacos dorados,14
+142,tamales,14
+143,tortillas de mano,14
+144,pu-erh,15
+145,white,15
+146,matcha & gyokuro,15
+147,wholesome sweets,15
+148,nourishing eats,15
+149,oolong,15
+150,fresh juice,15
+151,hot drinks & herbal lattes,15
+152,superfood smoothies,15
+153,superfood smoothie bowls,15
+154,black,15
+155,green,15
+156,pizza,16
+157,antipasti,16
+158,salad,16
+159,dessert food,16
+160,non alcoholic beverages,16
+161,plates & pasta,16
+162,PIATTI,16
+163,fryer,17
+164,starters,17
+165,burgers,17
+166,,17
+167,pot pies,17
+168,beverages,17
+169,pizza,17
+170,desserts,17
+171,sides,17
+172,kids,17
+173,specials,17
+174,beer online!!!*,18
+175,entrees !!!*,18
+176,desserts,18
+177,sweet !!!*,18
+178,red bottle!!!*,18
+179,sides !!!*,18
+180,appetizers !!!*,18
+181,non-alcoholic beverages!!!*,18
+182,noodle soups (pho),19
+183,vietnamese gourmet sandwiches (bánh mì),19
+184,vermicelli bowls,19
+185,salads,19
+186,wraps,19
+187,beverages,19
+188,entrée,20
+189,dessert,20
+190,appetizers / sides,20
+191,drinks,20
+192,temple of spuds,21
+193,french toast - pancakes - waffles - circus,21
+194,sandwiches,21
+195,mood elevators,21
+196,drinks,21
+197,lunches,21
+198,singles,21
+199,more tracks,21
+200,breakfast,21
+201,quesadillas,21
+202,soups,21
+203,do the boogaloo,21
+204,lunch sides,21
+205,salads,21
+206,other drinks,22
+207,pastries,22
+208,og drinks,22
+209,toasts,22
+210,breakfast burritos,22
+211,signature drinks,22
+212,tots,22
+213,lil' breakfast,22
+214,tacos,22
+215,french toasts,22
+216,oatmeal,22
+217,"co-ferment, cider & beer",23
+218,dine,23
+219,cocktails,23
+220,coffee & tea,23
+221,cold drinks,24
+222,hot drinks,24
+223,tamales,24
+224,main,24
+225,breakfast bagel & croissant,25
+226,most popular,25
+227,brunch,25
+228,hot/ice drinks,25
+229,snacks,25
+230,burritos/bowls & tacos,25
+231,burritos,25
+232,pastries & desserts,25
+233,pastries,25
+234,beverage,25
+235,sandwiches,25
+236,snacks & chips,25
+237,salads,25
+238,jar box to-go,25
+239,house specials,26
+240,desayuno,26
+241,bagels,26
+242,sides,26
+243,specialty sandwiches,26
+244,ensaladas,26
+245,pasta linguine,26
+246,quesadilla,26
+247,tacos,27
+248,dishes,27
+249,specials,27
+250,extras,27
+251,sodas,27
+252,breakfast,27
+253,burritos,27
+254,juices,27
+255,soups,27
+256,fresh drinks,27
+257,mexican tortas,27
+258,sides,28
+259,dinner (cena),28
+260,breakfast (desayunos),28
+261,drink (bevidas),28
+262,desserts (postres),28
+263,appetizers (aperitivos),28
+264,small dishes,29
+265,"beer, wine, and sake",29
+266,a la carte,29
+267,food & alcohol combos (paired with alcohol),29
+268,sushi,29
+269,beverage,29
+270,sides,29
+271,soup noodles,29
+272,combinaciones / combinations,30
+273,especiales - specials,30
+274,bebidas / beverages,30
+275,extras,30
+276,pruebe nuestras aguas frescas,30
+277,postres,30
+278,chava's favorites,30
+279,carnes / beef,30
+280,caldos / soups,30
+281,camarones / shrimp,30
+282,enjoy chava's specialities,30
+283,huevos / egg dishes,30
+284,chava's plates,30
+285,pescado / fish,30
+286,antojitos / starters,30
+287,pollo / chicken,30
+288,noodle soup (pho ),31
+289,satay noodle soup (pho),31
+290,appetizers,31
+291,catering,31
+292,entrée,31
+293,side order,31
+294,beverages,31
+295,milk tea,31
+296,vermicelli,31
+297,salads,31
+298,beer,31
+299,appetizers,32
+300,side orders,32
+301,catering entrees,32
+302,sauteed,32
+303,thai noodle soup,32
+304,fried rice,32
+305,chef’s recommendations,32
+306,beverages,32
+307,catering appetizers,32
+308,salad,32
+309,catering salad,32
+310,desserts,32
+311,catering fried rice,32
+312,curry,32
+313,pan fried noodle,32
+314,catering pan fried noodles,32
+315,vegetables,32
+316,soup,32
+317,soup,33
+318,appetizers,33
+319,vegetarian,33
+320,beef (carne de res),33
+321,chop suey,33
+322,chow mein,33
+323,egg foo young,33
+324,fried rice,33
+325,lo mein and mai fun,33
+326,moo shu,33
+327,poultry,33
+328,miscellaneous,33
+329,pork,33
+330,seafood,33
+331,pan fried noodle,33
+332,sweet and sour,33
+333,"salad, tofu and greens",34
+334,fresh raw tastings,34
+335,rice and noodle,34
+336,sushi rice bowls,34
+337,nigiri sushi,34
+338,sushi rolls,34
+339,sashimi,34
+340,fried yummy things,34
+341,ramen/udon/ soup,34
+342,drinks,34
+343,creamy udon carbonaras,34
+344,sides and more,34
+345,beverages,35
+346,COOKIES,35
+347,pastries & sweets,35
+348,sandwiches,35
+349,chips,35
+350,salads & sides,35
+351,Kids Menu,36
+352,special plates,36
+353,appetizers,36
+354,seafood,36
+355,drinks,36
+356,breakfast,36
+357,vegetarian,36
+358,burritos,36
+359,quesadillas,36
+360,tacos,36
+361,burritosburritos,36
+362,breakfastbreakfast,36
+363,appetizersappetizers,36
+364,beverages,37
+365,specialty items,37
+366,breakfast,37
+367,taqueria,37
+368,specialty plates,37
+369,beverages & sides,37
+370,dessert,38
+371,american roll (available 3:30 pm to 8:30 pm),38
+372,appetizer,38
+373,cocos ramen,38
+374,rice bowl,38
+375,alcoholic beverages (must be 21 to purchase),38
+376,nigiri sushi and sashimi sets (available 4:00 pm to 9:00 pm),38
+377,drinks,38
+378,bento box (3:30 pm to 8:30 pm ),38
+379,curry rice plate with miso soup and green salad,38
+380,house roll (available 3:30 pm to 8:30pm),38
+381,2 piece nigiri (available 3:30 pm to 8:30 pm),38
+382,3 piece sashimi (available 3:30 pm to 8:30 pm),38
+383,vegetarian roll(available 3:30 pm to 8:30 pm),38
+384,petit gateau,39
+385,all day light fare,39
+386,counter,39
+387,breads,39
+388,celebration cake and tart,39
+389,confections,39
+390,coffee and tea,39
+391,confitures,39
+392,snack,39
+393,other beverages,39
+394,beer,39
+395,specialty drinks,39
+396,the counter,39
+397,meat and seafood curry a la carte,40
+398,meat and seafood curry combo,40
+399,vegetable curry a la carte,40
+400,vegetable curry combo,40
+401,starters,40
+402,sizzling platter a la carte,40
+403,sizzling platter combo,40
+404,drinks,40
+405,sides,40
+406,dessert,40
+407,appetizers,41
+408,entrees,41
+409,dum biryani,41
+410,soups,41
+411,traditional drinks,41
+412,soft drinks,41
+413,dosas,41
+414,indian breads,41
+415,utappams,41
+416,desserts,41
+417,special-veg entrees,41
+418,party trays,41
+419,tandoor,41
+420,sides,41
+421,special menu,41
+422,idli/vada,41
+423,hot beverages,41
+424,bar and high tops,42
+425,tapas,42
+426,red wine by the glass (5 ozs.) and/or by the bottle,42
+427,cold tapas / salads,42
+428,empanadillas : fried medium size empanadas,42
+429,premium red wines by the bottle/spain,42
+430,croquetas,42
+431,vegetarian,42
+432,paellas,42
+433,seafood,42
+434,non-alcoholic,42
+435,premium white wines by the bottle( spain),42
+436,beer,42
+437,white wines by the glass and / or by the bottle (5 ozs.),42
+438,desserts,42
+439,"sherry, vermouth, sangrias and more",42
+440,meat & poultry,42
+441,pinchos - typically served on toasted bread -,42
+442,conservas/ premium tinned fish from spain.,42
+443,teas and milk teas,43
+444,sea salt crema tea,43
+445,ice cream tea floats,43
+446,snacks,43
+447,seasonals,43
+448,SWEET TREATS,43
+449,specialties,43
+450,limited edition summer flavors,43
+451,fruit teas,43
+452,sexy drinks,43
+453,matcha,43
+454,boiled,44
+455,small plates,44
+456,steamed,44
+457,noodle / 面条,44
+458,vegetable,44
+459,beverage / 饮料,44
+460,pan-fried,44
+461,soup / 汤品,44
+462,fried,44
+463,combo deals,44
+464,dessert,44
+465,echigo bento box,45
+466,classic rolls,45
+467,specialty mizudashi iced drinks,45
+468,nigiri,45
+469,veggie rolls,45
+470,specialty matcha and hojicha drinks,45
+471,lighter fare,45
+472,main,45
+473,donburi,45
+474,oolong premium mizudashi tea,45
+475,black premium mizudashi tea,45
+476,designed rolls,45
+477,sushi combo,45
+478,iced organic cold brew coffee,45
+479,sashimi,45
+480,green premium mizudashi tea,45
+481,kids meal,45
+482,caffeine free premium mizudashi tea,45
+483,family style,46
+484,plato fuerte,46
+485,abrebocas,46
+486,sides,46
+487,dessert,46
+488,beverages,46
+489,antojitos,46
+490,tacos,47
+491,burrito,47
+492,drinks,47
+493,bowl,47
+494,birria consome,47
+495,sandwich ( mexican torta on telera bread),47
+496,mexican dishes,48
+497,menu,48
+498,burritos,48
+499,tacos,48
+500,sweet mornings,48
+501,kids' menu,48
+502,brunch menu,48
+503,sandwiches,48
+504,"bowl burrito, super, or regular",48
+505,drinks,48
+506,quesadillas,48
+507,burgers,48
+508,enchiladas,48
+509,desserts,48
+510,nachos,48
+511,sides,49
+512,aguas frescas,49
+513,protein choices,49
+514,dinner menu,49
+515,botana,49
+516,chips,49
+517,specials,49
+518,mex bottle soda,49
+519,jarritos,49
+520,postres,49
+521,can soda,49
+522,small plates,50
+523,bebidas,50
+524,còctel,50
+525,postre,50
+526,cerveza,50
+527,brunch,50
+528,bocaditos,50
+529,chicharrones de carne,50
+530,vino,50
+531,specials,51
+532,drinks,51
+533,favorites,51
+534,appetizers,51
+535,a la carte,51
+536,sizzling fajitas,51
+537,salads and burritos,51
+538,enchiladas and combinations,51
+539,seafood,51
+540,desserts,51
+541,soups,51
+542,sides / salad/ pasta additions,52
+543,salads,52
+544,cocktails,52
+545,appetizers,52
+546,mocktails /na,52
+547,desserts,52
+548,wine red,52
+549,entrees,52
+550,beer,52
+551,non-alcoholic,53
+552,cocktails,53
+553,raw bar,53
+554,salads & vegetables,53
+555,meat & seafood,53
+556,snacks,53
+557,white,53
+558,sparkling,53
+559,Desserts,53
+560,rosé + orange,53
+561,beer & sake,53
+562,tapas - pescados y mariscos,54
+563,desserts,54
+564,tapas - aves y carnes,54
+565,dinner combination plates ( monday to friday only) starts @ 3:00 pm,54
+566,lunch combination plates ( monday to friday only) ends @ 3:00 pm,54
+567,ensaladas у tapas vegetarianas,54
+568,sherry (must be 21 to purchase),54
+569,tapas - embutidos y quesos,54
+570,beer (must be 21 to purchase),54
+571,soups,54
+572,"meat, seafood and vegetables",54
+573,beverages,54
+574,peallas,54
+575,cava (must be 21 to purchase),54
+576,cheese,55
+577,flammenkueche,55
+578,tapas,55
+579,dessert,55
+580,charcuterie boards,55
+581,entrees,55
+582,starters,55
+583,to start,56
+584,pasta,56
+585,pizza,56
+586,bread,56
+587,entree,56
+588,ii,57
+589,i,57
+590,iii,57
+591,if you cheese,57
+592,maybe...,57
+593,iv,57
+594,main features,58
+595,oysters*,58
+596,premieres,58
+597,shellfish,58
+598,urban picnic,58
+599,caviar*,58
+600,raw bar,59
+601,soft drinks & sparkling waters,59
+602,beer,59
+603,main,59
+604,share,59
+605,n/a beverages,59
+606,cider,59
+607,utensils,59
+608,breakfast - juices,60
+609,breakfast - cold drinks,60
+610,breakfast - sandwiches & burgers,60
+611,breakfast - specialties,60
+612,breakfast - scrambles,60
+613,breakfast - benedicts,60
+614,breakfast - beverages,60
+615,breakfast - sides,60
+616,breakfast - salads,60
+617,breakfast - kid's menu,60
+618,breakfast - omelets,60
+619,breakfast - two eggs,60
+620,beverages,61
+621,breakfast,61
+622,menu,61
+623,appetizers,61
+624,small bites & appetizer,62
+625,boba milk tea & drinks,62
+626,curry rice,62
+627,soup,62
+628,dessert,62
+629,salads,62
+630,special ramen,62
+631,ramen,62
+632,beer & sake,62
+633,teriyaki,62
+634,teppan curry rice,62
+635,teppan curry ramen,62
+636,canned drinks,63
+637,pork,63
+638,house sauces,63
+639,bottled drinks,63
+640,"duck (half a duck, deboned)",63
+641,stir fry noodles,63
+642,specialty drinks,63
+643,sparkling water,63
+644,"poached free range chicken (half a chicken, deboned)",63
+645,sides,63
+646,wine by the glass,64
+647,shop,64
+648,house cocktails,64
+649,beer & sake,64
+650,boozy teapots,64
+651,sides,65
+652,gyro wraps & more,65
+653,salads,65
+654,soups,65
+655,beverages,65
+656,starters,65
+657,desserts,65
+658,burgers,65
+659,gyro plates & more,65
+660,tacos,65
+661,gyros wraps & more with fries and gyro sauce,65
+662,bowls,65
+663,vegan wraps & plate options,65
+664,side proteins,65
+665,beer,66
+666,handroll,66
+667,small plates,66
+668,non-alcoholic,66
+669,sake,66
+670,Burgers,67
+671,sides,67
+672,desserts,67
+673,Desserts,67
+674,soups,67
+675,beverages,67
+676,Dips,67
+677,Fries Bowls,67
+678,gluten free,67
+679,keto,67
+680,new items,67
+681,mediterranean,67
+682,paleo,67
+683,vegan,67
+684,"sonoma, mendocino & santa cruz mountains",68
+685,"qupé, santa maria valley",68
+686,"luigi ferrando, ivrea",68
+687,greece,68
+688,savoie,68
+689,trentino & valtellina,68
+690,rhone & southern france,68
+691,tuscany & abruzzo,68
+692,in-house menu,68
+693,a la carte,68
+694,alcohol,69
+695,basic roll,69
+696,desserts,69
+697,entrees,69
+698,smoothies,69
+699,noodle,69
+700,Vegan Sushi,69
+701,western,69
+702,rice plate/clay pot,69
+703,food &amp; alcohol combos,69
+704,appetizer,69
+705,beverages,69
+706,salad,69
+707,soup,69
+708,side orders,69
+709,appetizer,70
+710,beef,70
+711,chicken,70
+712,beverages,70
+713,chop suey,70
+714,egg foo young,70
+715,seafood,70
+716,fried rice,70
+717,hamburger,70
+718,j&e special,70
+719,noodle,70
+720,pork,70
+721,rice plate,70
+722,"soup, wonton and noodle soup",70
+723,drinks,71
+724,cheesesteaks,71
+725,burgers & dogs,71
+726,sandwiches,71
+727,dessert,71
+728,salads,71
+729,sides,71
+730,croissants,72
+731,french macarons,72
+732,café auscones & biscuits lait,72
+733,biscotti,72
+734,biscuits,72
+735,quiche,72
+736,muffins,72
+737,biscuit sandwiches,72
+738,scones & biscuits,72
+739,christmas,72
+740,salads,72
+741,cakes,72
+742,thanksgiving,72
+743,"cookies, brownies, and bars",72
+744,halloween,72
+745,quick breads,72
+746,cinnamon roll,72
+747,specialty,72
+748,dog biscuits,72
+749,financiers  (bag of 3),72
+750,granola parfait,72
+751,holidays,72
+752,easter,72
+753,saint patrick’s day,72
+754,mardi gras,72
+755,tarts,72
+756,mini cream puffs,72
+757,mini eclairs,72
+758,granolas,72
+759,memorial day/fourth of july,72
+760,special roll,73
+761,japon tapas,73
+762,Fresh Catch,73
+763,from the kitchen,73
+764,simple maki,73
+765,noodle & don (over rice),73
+766,soda,73
+767,salad,73
+768,extra sauce,73
+769,sushi & sashimi,73
+770,small sashimi don,73
+771,side,73
+772,sake,73
+773,beer,73
+774,sides,74
+775,utensils,74
+776,beverages,74
+777,desserts,74
+778,garnish sides,74
+779,snacks,74
+780,build-your-own bowl,74
+781,small plates,74
+782,salads,74
+783,alcoholic beverages,74
+784,sipping broth,74
+785,specials,74
+786,signature bowls,74
+787,location,74
+788,dessert,75
+789,main plates,75
+790,salad,75
+791,beverage,75
+792,sides,75
+793,appetizer,75
+794,main bowl,75
+795,soup,75
+796,omakase sashimi,76
+797,sushi rolls (with hand roll options),76
+798,soba noodle soup,76
+799,udon noodle soup,76
+800,omakase nigiri,76
+801,entrée,76
+802,nigiri sushi (2 pieces per order),76
+803,sashimi (5 pieces per order),76
+804,fresh raw tastings,76
+805,skewers (2 per order),76
+806,"salad, tofu and greens",76
+807,kitchen appetizers,76
+808,sides and more,76
+809,drinks,76
+810,deluxe sushi rolls,76
+811,sashimi don,76
+812,dessert,76
+813,donburi,76
+814,ramen noodle,76
+815,bento sets,76
+816,family meals,77
+817,hand-breaded chicken,77
+818,sides,77
+819,honey butter shrimp,77
+820,hand-breaded tenders,77
+821,wings,77
+822,bebidas,78
+823,jugos naturales,78
+824,burritos,78
+825,tacos,78
+826,guisados,78
+827,desayunos,78
+828,sopas,78
+829,platillos,78
+830,pupusas,78
+831,tamales,78
+832,quesadilla,78
+833,tortas,78
+834,a la carte - tacos,79
+835,pupusas,79
+836,plates - seafood,79
+837,plates - enchiladas,79
+838,desserts,79
+839,appetizers,79
+840,quesadillas,79
+841,burritos,79
+842,tamales oaxaquenos,79
+843,tlayudas,79
+844,a la carte - tortas,79
+845,pachanga trays,80
+846,order by tray,80
+847,catering,81
+848,sides,81
+849,street foods | bowls,81
+850,street foods | burritos,81
+851,chimichanga,81
+852,enchiladas,81
+853,street foods | quesadillas,81
+854,salads,81
+855,tacos | traditional,81
+856,street foods | tortas,81
+857,tostadas,81
+858,appetizers,81
+859,entrees,81
+860,tacos | international,81
+861,drinks,81
+862,desserts,81
+863,kids,81
+864,tacos,82
+865,drinks,82
+866,burritos,82
+867,Birria Plates,82
+868,birria plates,82
+869,fries quesadillas nachos,82
+870,starters and sides,82
+871,sides,82
+872,mesquite charcoal grilled fajitas,82
+873,mesquite charcoal grill plates,82
+874,Mesquite grilled Fajitas,82
+875,dinner,83
+876,SUMMER FRUITS,83
+877,SEAFOOD TOWER,83
+878,TREATS,83
+879,sides,84
+880,soups,84
+881,sodas,84
+882,entrées,84
+883,aguas frescas,84
+884,featured items,84
+885,tortas,84
+886,antojitos,85
+887,traditional favorites,85
+888,desayuno,85
+889,del huerto (vegan),85
+890,kids,85
+891,cocktails,86
+892,cans,86
+893,taps,86
+894,the grub,86
+895,,86
+896,mains,86
+897,vino,86
+898,dolci,87
+899,neapolitan 5 star gourmet thin crust pizza,87
+900,antipasti & insalate,87
+901,red wines,87
+902,spumanti (sparklers) & bellini,87
+903,pasta fatta in casa,87
+904,pasta,87
+905,secondi,87
+906,bottle beer,87
+907,soft drinks,87
+908,white wines & rose,87
+909,sides,88
+910,chicken,88
+911,cold beverages,88
+912,breakfast,88
+913,bagels,88
+914,beef,88
+915,pork,88
+916,seafood,88
+917,desserts,88
+918,hot beverages,88
+919,appetizers,88
+920,burritos,88
+921,tortas,88
+922,beer - cans & bottles,89
+923,n/a beverages - zero proof,89
+924,brunch - snacks & sides,89
+925,brunch - brunch drinks,89
+926,beer - drafts,89
+927,brunch - mains,89
+928,wine - bubbles,89
+929,dinner - snacks & sides,89
+930,dinner - mains,89
+931,cocktails,89
+932,n/a beverages,89
+933,wine - white,89
+934,dinner - dessert,89
+935,vegetarian specials - individual combo meal plan,90
+936,vegetarian specials - family style catering,90
+937,rice & biryani - family style catering,90
+938,sides dishes - rice & biryani - individual combo meal plan,90
+939,chicken dishes - individual combo meal plan,90
+940,bread - family style catering,90
+941,sides dishes - bread - individual combo meal plan,90
+942,chicken dishes - family style catering,90
+943,himalayan specialities - family style catering,90
+944,himalayan specialities - individual combo meal plan,90
+945,appetizers - family style catering,90
+946,tandoori specials - individual combo meal plan,90
+947,catering tandoori specials - family style catering,90
+948,lamb dishes - individual combo meal plan,90
+949,dessert - family style catering,90
+950,dessert - individual combo meal plan,90
+951,lamb dishes - family style catering,90
+952,seafood dishes - individual combo meal plan,90
+953,seafood dishes - family style catering,90
+954,appetizers - individual combo meal plan,90
+955,classic rolls,91
+956,starters,91
+957,specialty spicy rolls,91
+958,nigiri,91
+959,classic maki,91
+960,vegetarian nigiri,91
+961,entrées,91
+962,veggie rolls,91
+963,sashimi,91
+964,extras,91
+965,small plates,91
+966,specialty rolls,91
+967,antipasti & specialities,92
+968,sandwiches,92
+969,breakfast,92
+970,main dishes,92
+971,salads,92
+972,pizza tarte flambee,92
+973,SWISS CHEESE FONDUE,92
+974,pasta classica,93
+975,desserts,93
+976,soups & salads,93
+977,steaks & plates,93
+978,grandma lasagna,93
+979,appetizers,93
+980,beverages,93
+981,pasta pairs,93
+982,gourmet pizza,93
+983,additional services - bay area delivery fees,94
+984,meal boxes,94
+985,special dishes,94
+986,full-service catering,94
+987,cocktail hour menu,94
+988,wedding service - sample menu - appetizers,94
+989,wedding service - sample menu - mains,94
+990,let's share,95
+991,ramen & japanese noodle,95
+992,thai noodle,95
+993,beverages,95
+994,mediterranean delights,96
+995,sides,96
+996,salads and soup,96
+997,desserts,96
+998,sandwiches,96
+999,our kitchen entrees,96
+1000,beverages,96
+1001,pasta,97
+1002,pesci crudi,97
+1003,antipasti,97
+1004,secondi,97
+1005,pane,97
+1006,contorni,97
+1007,sake cocktails,98
+1008,mediterranean drinks,98
+1009,salads,98
+1010,petra wraps,98
+1011,starters,98
+1012,desserts,98
+1013,sides,98
+1014,plates served with basmati rice,98
+1015,white,98
+1016,bottles,98
+1017,draft beer,98
+1018,from the grill,98
+1019,soft drinks,98
+1020,red,98
+1021,from the oven,98
+1022,starters/ appetizers,98
+1023,starters,99
+1024,banh mi sandwiches,99
+1025,special side order,99
+1026,pho noodle soup,99
+1027,salad,99
+1028,pho day entrée,99
+1029,soft drinks & juice,99
+1030,coffee & boba,99
+1031,lunch bentos & more,100
+1032,sides & utensils,100
+1033,sweet tofu pockets,101
+1034,vegan sancha sushi rolls,101
+1035,plant based tuna by impact food. vegan menu,101
+1036,non-vegan menu,101
+1037,cold sake,101
+1038,japanese classic vegan menu,101
+1039,hot sake,101
+1040,beer,101
+1041,soft drink,101
+1042,desserts,102
+1043,hot drinks,102
+1044,sandwiches,102
+1045,cold drinks,102
+1046,grab n go,102
+1047,juices,102
+1048,breakfast,102
+1049,kids,102
+1050,retail items,102
+1051,salads,102
+1052,smoothies,102
+1053,retail coffee,102
+1054,burgers,102
+1055,pizzas,102
+1056,mixed drinks,102
+1057,paper cups,102
+1058,sides & sauces,103
+1059,a la carte,103
+1060,margaritas (must be 21 to purchase and order with meal).,104
+1061,"especiales de la casa - poblana thursdays, milanesa fridays!",104
+1062,carnes - milanesa friday!,104
+1063,cervezas (must be 21 to purchase),104
+1064,burritos y suizas - burrito wednesdays!,104
+1065,ensaladas,104
+1066,combos,104
+1067,appetizers and platters,104
+1068,postre,104
+1069,combo mix,104
+1070,breakfast,104
+1071,beverages,104
+1072,michelada (must be 21 to purchase),104
+1073,sangria (must be 21 to purchase),104
+1074,rice plate,105
+1075,chef's specials,105
+1076,vietnamese style rice plates,105
+1077,appetizers,105
+1078,pho - vietnamese noodle soup,105
+1079,chow mein or chow fun,105
+1080,felicia's combination plates,105
+1081,fried rice,105
+1082,soup,105
+1083,chop suey with rice,105
+1084,wonton soup,105
+1085,egg foo yung with rice,105
+1086,noodles or fun soup,105
+1087,vegetarian,105
+1088,beef,105
+1089,chicken,105
+1090,soda,105
+1091,vietnamese grilled plate,105
+1092,pork,105
+1093,seafood,105
+1094,food,106
+1095,wine,106
+1096,sodas,106
+1097,beer,106
+1098,plates,107
+1099,ramen,107
+1100,apps,107
+1101,common,108
+1102,dinner,108
+1103,lunch,108
+1104,drinks,108
+1105,appetizers,108
+1106,extra,108
+1107,sides,108
+1108,dessert,108
+1109,signature,109
+1110,let’s drink,109
+1111,side dish,109
+1112,benedict,109
+1113,SautÉed & Curry,109
+1114,curry,109
+1115,starters,109
+1116,sautéed,109
+1117,burger ＆ sandwich,109
+1118,sweets,109
+1119,eggs,109
+1120,bites,109
+1121,salads,109
+1122,kids’ meal,109
+1123,fried rice,109
+1124,noodles,109
+1125,brunch,110
+1126,dinner,110
+1127,bar menu,110
+1128,drinks - house made aguas y refrescos,110
+1129,drinks - beer cervezas,110
+1130,drinks - wine,110
+1131,cocktails (must be 21 to purchase),111
+1132,burgers,111
+1133,beer and cider (must be 21 to purchase),111
+1134,starters and snacks,111
+1135,non alcoholic beverages,111
+1136,salads,111
+1137,pasta,111
+1138,dessert,111
+1139,specials,111
+1140,white wine (must be 21 to purchase),111
+1141,toasts,112
+1142,pastries & baked goods,112
+1143,coffee & drinks,112
+1144,sandwiches,112
+1145,our best sellers,112
+1146,sliders,112
+1147,others,112
+1148,salads,112
+1149,soups,112
+1150,​sausage list,113
+1151,sausage menu,113
+1152,classics and snacks,113
+1153,sides,113
+1154,special roll,114
+1155,appetizers,114
+1156,sashimi 2pcs,114
+1157,nigiri /1pcs,114
+1158,drink menu,114
+1159,vegetarian roll,114
+1160,kitchen,114
+1161,udon,114
+1162,maki,114
+1163,temaki （handroll),114
+1164,sushi bar special,114
+1165,side,114
+1166,salads,114
+1167,soup & rice,114
+1168,omakase (special fish from japan),114
+1169,soups and stews|국/찌개,115
+1170,specialty banchan|계절반찬,115
+1171,appetizers|전체,115
+1172,"charcoal bbq|숯불구이  served with ssamjang, gusujang, house chili oil and jangajji",115
+1173,desserts|후식,115
+1174,tea|차,115
+1175,other items from the grill|생선/채소구이,115
+1176,gamasot rice dishes serves 2-4 | 가마솥요리,115
+1177,for y|곁들임our bbq,115
+1178,for your bbq|곁들임,115
+1179,othe|생선/채소구이r items from the grill,115
+1180,chicken specialty entrees (pollo especialidadoes),116
+1181,sides,116
+1182,beef specialty entrees (carne especialidadoes),116
+1183,breakfast mexican style (estilo mexicano),116
+1184,kid's plate,116
+1185,lunch,116
+1186,traditional plates,116
+1187,drinks (bebidas),116
+1188,seafood (marisccos),116
+1189,seafood,116
+1190,pork specialty entrees (puerco especialidadoes),116
+1191,breakfast american style (estilo americano),116
+1192,appetizers,116
+1193,desserts,116
+1194,lunch specials (especiales del dia),116
+1195,salads,116
+1196,breakfast omelettes,116
+1197,choice per pound,117
+1198,pasta,117
+1199,entree,117
+1200,dessert,117
+1201,salad,117
+1202,sandwich,117
+1203,soup,117
+1204,soft drinks,117
+1205,alcohol,117
+1206,sides,117
+1207,appetizer,117
+1208,fried,117
+1209,gift certificate,117
+1210,kids meal,117
+1211,merchandise,117
+1212,side items & a la carte,118
+1213,canned/bottled drinks (non-alcoholic),118
+1214,beverages frescas (non-alcoholic),118
+1215,food,118
+1216,kids menu,118
+1217,featured items,118
+1218,sf mission exclusives,118
+1219,beer,118
+1220,vegano menu,118
+1221,toast,119
+1222,smoothies,119
+1223,vegan smoothies,119
+1224,bowls,119
+1225,coffee,119
+1226,fresh juice,119
+1227,cold-pressed juices,119
+1228,cafe menu,120
+1229,to pastry,121
+1230,to drink,121
+1231,to food,121
+1232,to sides,121
+1233,to retail,121
+1234,sushi hon,122
+1235,sea,123
+1236,fried rice,123
+1237,noodle soup,123
+1238,salads,123
+1239,side orders,123
+1240,appetizers,123
+1241,entrees,123
+1242,pan fried noodle,123
+1243,vegetarian and vegan options,123
+1244,desserts,123
+1245,curries,123
+1246,beverages,123
+1247,chef's suggestions,123
+1248,soups,123
+1249,breakfast,124
+1250,drinks,124
+1251,kids menu,124
+1252,specials,124
+1253,burritos,124
+1254,entrees,124
+1255,starters,124
+1256,sweet,124
+1257,soups & saladssoups & salads,124
+1258,tacos,124
+1259,soups & salads,124
+1260,alcoholic drinks,124
+1261,quesadillasquesadillas,124
+1262,tortas,124
+1263,quesadillas,124
+1264,sweets,124
+1265,salads,125
+1266,tacos,125
+1267,sides,125
+1268,dulce,125
+1269,snacks,125
+1270,KIDS MENU,125
+1271,appetizers,126
+1272,sides & extras,126
+1273,new menu,126
+1274,weekend specials,126
+1275,sides & add ons,126
+1276,breakfast,126
+1277,mimosas,126
+1278,sides,127
+1279,bebidas-beverges,127
+1280,tacos regular,127
+1281,tacos especiales,127
+1282,choriqueso,127
+1283,burrito,127
+1284,alambers,127
+1285,quesadillas,127
+1286,shrimp ceviche,127
+1287,mulitas,127
+1288,burritos,127
+1289,enchiladas,127
+1290,wine,128
+1291,naan bread,128
+1292,beer,128
+1293,chicken,128
+1294,vegeterian,128
+1295,pizza,128
+1296,biryanis,128
+1297,tandoori (bbq),128
+1298,appetizer,128
+1299,boneless lamb,128
+1300,seafood,128
+1301,soup,128
+1302,drinks,128
+1303,chef's special,128
+1304,dessert,128
+1305,sides,128
+1306,extra toppings,129
+1307,ramen,129
+1308,extra soup,129
+1309,appetizers,129
+1310,soft drinks,129
+1311,tacos,130
+1312,specialties,130
+1313,drinks,130
+1314,burritos,130
+1315,extras & sides,130
+1316,mexican dishes,130
+1317,quesadilla,130
+1318,extras,131
+1319,side orders,131
+1320,dinner plates,131
+1321,breakfast,131
+1322,quesadillas,131
+1323,a la carte,131
+1324,burritos,131
+1325,tacos,131
+1326,nachos,131
+1327,specials,132
+1328,combinations,132
+1329,vegetarian burritos,132
+1330,vegetarian quesadillas,132
+1331,house specials,132
+1332,breakfast,132
+1333,extras,132
+1334,dinner plates,132
+1335,burritos,132
+1336,soups,132
+1337,seafood,132
+1338,nachos,132
+1339,quesadillas,132
+1340,viennoiserie & pastry,133
+1341,coffee manufactory,133
+1342,bottled drinks,133
+1343,savory specials,133
+1344,bread,133
+1345,tarts,133
+1346,cakes,133
+1347,confections,133
+1348,cookies,133
+1349,salads,133
+1350,hot pressed sandwiches -,133
+1351,tea,133
+1352,wine spritz,133
+1353,savory specialssavory specials,133
+1354,fried rice,134
+1355,sides,134
+1356,chow mein,134
+1357,salads,134
+1358,beef,134
+1359,chicken broth,134
+1360,chicken,134
+1361,beverages,134
+1362,vietnamese style dishes,134
+1363,appetizers,134
+1364,vegetarian dishes,134
+1365,seafood,134
+1366,vermicelli noodles,134
+1367,vietnamese style bbq rice plate,134
+1368,soups,134
+1369,beef broth (pho),134
+1370,shrimp,134
+1371,brunch sides,135
+1372,sides,135
+1373,pina cockail,135
+1374,brunch mains,135
+1375,mains,135
+1376,starters,135
+1377,brunch starters,135
+1378,n/a bevs,135
+1379,bubbly,135
+1380,dessert,135
+1381,brunch bev,135
+1382,retail,135
+1383,catering,135
+1384,red wine,135
+1385,kids menu,135
+1386,corkage,135
+1387,can/bottle beer,135
+1388,kids drinks,135
+1389,draft beer,135
+1390,whiskey,135
+1391,misc liq,135
+1392,house cocktails,136
+1393,thin crust pizzas,136
+1394,burgers & sandwiches,136
+1395,BURGERS & SANDWICHES,136
+1396,salads,136
+1397,mains,136
+1398,bottled beers,136
+1399,canned beers,136
+1400,SALADS,136
+1401,red wine,136
+1402,BRUNCH FOOD,136
+1403,Brunch Sides,136
+1404,small plates,136
+1405,draft beers,136
+1406,sparkling,136
+1407,TACO TUESDAY,136
+1408,n/a beverages,136
+1409,BRUNCH SNACKS,136
+1410,BRUNCH DRINKS,136
+1411,ciders & more,136
+1412,white & rosé,136
+1413,nibbles,137
+1414,madeira selections - 2oz. pours,137
+1415,sweet wine - 2oz. pours,137
+1416,white,137
+1417,red,137
+1418,ciders and co-ferments,137
+1419,beer,137
+1420,caviar servic,137
+1421,cocktails,137
+1422,dessert,137
+1423,cheese,137
+1424,first course,137
+1425,charcuterie,137
+1426,main course,137
+1427,smoked duck . root vegetables,137
+1428,bubbles,137
+1429,house wines,137
+1430,hungry,138
+1431,small bite,138
+1432,side,138
+1433,salad,138
+1434,beverage,138
+1435,sake,138
+1436,beer,138
+1437,"soup, noodle, rice",138
+1438,add on,138
+1439,,138
+1440,cans + bottles,139
+1441,appetizers,139
+1442,fries,139
+1443,sandwiches,139
+1444,sliders,139
+1445,non-alcoholic,139
+1446,salads,139
+1447,sides,139
+1448,mimosas & draft beers,140
+1449,entrees,140
+1450,appetizers,140
+1451,non-alcoholic,140
+1452,spirits menu - agave,141
+1453,"spirits menu - bitters, sweets, bittersweets",141
+1454,spirits menu - cereal grains other whiskey,141
+1455,spirits menu - fruit spirits,141
+1456,dinner menu,141
+1457,spirits menu - botanicals,141
+1458,"cocktail & wine menu - wine - beer, cider, etc",141
+1459,"spirits menu - madeira/port/macvin, etc.",141
+1460,cocktail & wine menu - cocktails,141
+1461,brunch menu,141
+1462,spirits menu - cereal grains scotch,141
+1463,spirits menu - cane and molasses,141
+1464,brunch menu - free spirit,141
+1465,spirits menu - cereal grains bourbon,141
+1466,spirits menu - sherry and sherry-ish,141
+1467,cocktail & wine menu - wine - free spirit,141
+1468,spirits menu - cereal grains rye,141
+1469,brunchy drinks,141
+1470,spirits menu - no botanicals,141
+1471,curries,142
+1472,sides,142
+1473,rice specialties,142
+1474,desserts,142
+1475,special dinners,142
+1476,appetizers,142
+1477,dosas,142
+1478,beverages,142
+1479,uthappam,142
+1480,soups,142
+1481,soft drinks,143
+1482,frozen dumplings,143
+1483,rice,143
+1484,alcohol,143
+1485,dumplings and her cousins,143
+1486,pairs well with dumplings,143
+1487,homemade sauces,143
+1488,noodles,143
+1489,pot stickers,143
+1490,desserts,143
+1491,soup dumplings (xlb),143
+1492,bottled beers,144
+1493,pizzas - locals' favorites,144
+1494,sandwiches,144
+1495,drinks,144
+1496,our specialties,144
+1497,pizzas - build your own,144
+1498,starters,144
+1499,dessert of the day,144
+1500,pastas,144
+1501,sides,144
+1502,burgers,144
+1503,beer & wine,145
+1504,dinner,145
+1505,dolci,145
+1506,menu,146
+1507,fusion meals,146
+1508,sides,146
+1509,sandwiches,146
+1510,mob meals,146
+1511,beverages,146
+1512,desserts,146
+1513,burgers m-w pm,147
+1514,sodas m-w pm,147
+1515,sides m-w pm,147
+1516,chicken m-w pm,147
+1517,kid's menu m-w pm,147
+1518,n' more m-w pm,147
+1519,appetizers,148
+1520,dim sum,148
+1521,beef,148
+1522,vegetarian dishes,148
+1523,tofu,148
+1524,vegetarian delights,148
+1525,porridge,148
+1526,dessert,148
+1527,soup,148
+1528,egg foo young,148
+1529,beverages,148
+1530,chicken,148
+1531,lunch special rice plates,148
+1532,chow mein and chow fun,148
+1533,fried rice,148
+1534,noodle soup,148
+1535,mu shu,148
+1536,chef's recommendations,148
+1537,combination meals,148
+1538,seafood,148
+1539,salads,148
+1540,pork,148
+1541,sides,149
+1542,dessert/ice cream,149
+1543,kabob - no meal,149
+1544,salads,149
+1545,wraps,149
+1546,plates,149
+1547,rotisserie chicken - no meal,149
+1548,syrian pizza,149
+1549,soda,149
+1550,syrian quesadilla,149
+1551,empanadas,150
+1552,tamales,150
+1553,tortas,150
+1554,maya especialidades,150

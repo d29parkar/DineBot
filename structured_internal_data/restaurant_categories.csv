@@ -1,0 +1,350 @@
+restaurant_id,category
+1,New American
+1,Wine Bars
+2,New American
+3,Food Trucks
+3,Burgers
+3,Sandwiches
+4,Japanese
+4,Specialty Food
+5,Mexican
+6,American
+6,Breakfast & Brunch
+6,Burgers
+7,Asian Fusion
+7,Breakfast & Brunch
+7,Chicken Wings
+8,Latin American
+8,Breakfast & Brunch
+8,Sandwiches
+9,Pizza
+9,Mexican
+10,Vietnamese
+10,Noodles
+10,Soup
+11,Breakfast & Brunch
+11,Burgers
+11,Sandwiches
+12,Chinese
+12,Food Delivery Services
+13,Seafood
+13,Burgers
+13,Poke
+14,Mexican
+14,Meat Shops
+14,Caterers
+15,Coffee & Tea
+15,Juice Bars & Smoothies
+15,Vegan
+16,Italian
+16,Pizza
+16,Breakfast & Brunch
+17,Burgers
+17,Breakfast & Brunch
+17,New American
+18,American
+18,Comfort Food
+18,Wine Bars
+19,Vietnamese
+20,Japanese
+20,Asian Fusion
+21,American
+21,Breakfast & Brunch
+21,Latin American
+22,Coffee & Tea
+22,Breakfast & Brunch
+22,Cafes
+23,Bars
+23,Cafes
+23,Coffee & Tea
+24,Coffee & Tea
+24,Mexican
+25,Breakfast & Brunch
+25,Cafes
+25,Coffee & Tea
+26,Coffee & Tea
+26,Latin American
+26,Breakfast & Brunch
+27,Mexican
+27,Breakfast & Brunch
+28,Breakfast & Brunch
+28,Tacos
+29,Japanese
+29,Vegetarian
+29,Vegan
+30,Mexican
+31,Noodles
+31,Vietnamese
+31,Chinese
+32,Thai
+33,Donuts
+33,Chinese
+33,Fast Food
+34,Izakaya
+34,Gastropubs
+34,Ramen
+35,Vietnamese
+35,Sandwiches
+35,Coffee & Tea
+36,Mexican
+37,Mexican
+37,Breakfast & Brunch
+38,Ramen
+38,Noodles
+39,Bakeries
+39,Patisserie/Cake Shop
+39,Coffee & Tea
+40,Himalayan/Nepalese
+40,Indian
+40,Caterers
+41,Indian
+41,Comfort Food
+42,Spanish
+42,Tapas Bars
+42,Wine Bars
+43,Bubble Tea
+43,Coffee & Tea
+43,Japanese
+44,Shanghainese
+45,Japanese
+45,Sushi Bars
+46,Mexican
+46,Cocktail Bars
+47,Mexican
+47,Food Trucks
+47,Sandwiches
+48,Mexican
+48,Salad
+48,Burgers
+49,Tacos
+49,Beer Bar
+49,Gastropubs
+50,Latin American
+50,Cocktail Bars
+50,Breakfast & Brunch
+51,Mexican
+51,Breakfast & Brunch
+52,Italian
+52,Cocktail Bars
+53,New American
+53,Seafood
+53,Bars
+54,Spanish
+54,Tapas Bars
+55,Wine Bars
+55,New American
+55,Tapas/Small Plates
+56,Italian
+56,Pizza
+57,New American
+58,Breakfast & Brunch
+58,Mediterranean
+58,Cocktail Bars
+59,
+60,Breakfast & Brunch
+61,Mexican
+62,Ramen
+62,Japanese Curry
+63,Barbeque
+63,Cantonese
+64,New American
+64,Cocktail Bars
+64,Desserts
+65,Mediterranean
+65,Greek
+65,Salad
+66,Japanese
+67,Mediterranean
+67,Vegan
+67,Breakfast & Brunch
+68,New American
+68,French
+68,Wine Bars
+69,Vegan
+69,Asian Fusion
+69,Vegetarian
+70,Chinese
+70,Seafood
+71,Cheesesteaks
+71,Burgers
+71,Sandwiches
+72,Bakeries
+72,Coffee & Tea
+72,Breakfast & Brunch
+73,Japanese
+73,Sushi Bars
+73,Soup
+74,Gluten-Free
+74,New American
+75,Japanese
+75,Asian Fusion
+76,Ramen
+76,Izakaya
+76,Sushi Bars
+77,Chicken Wings
+77,Cajun/Creole
+77,Fast Food
+78,Mexican
+79,Mexican
+80,Mexican
+81,Mexican
+82,Mexican
+82,Halal
+82,Beer Bar
+83,New American
+84,Mexican
+85,Mexican
+86,American
+86,Cocktail Bars
+86,Breakfast & Brunch
+87,Italian
+87,Wine Bars
+87,Pizza
+88,Mexican
+88,Latin American
+89,Bowling
+89,Breakfast & Brunch
+89,Cocktail Bars
+90,Indian
+90,Himalayan/Nepalese
+90,Vegan
+91,Sushi Bars
+91,Japanese
+91,Hawaiian
+92,Wine Bars
+92,Cafes
+92,Brazilian
+93,Italian
+94,Vietnamese
+94,Noodles
+94,Caterers
+95,Thai
+95,Noodles
+95,Ramen
+96,Mediterranean
+96,Halal
+96,Kebab
+97,Italian
+97,Venues & Event Spaces
+98,Mediterranean
+98,Venues & Event Spaces
+98,Cocktail Bars
+99,Vietnamese
+99,Sandwiches
+99,Coffee & Tea
+100,Breakfast & Brunch
+100,Asian Fusion
+101,Sushi Bars
+101,Vegan
+101,Vegetarian
+102,Cafes
+102,New American
+102,Pizza
+103,Guamanian
+103,Barbeque
+103,Breakfast & Brunch
+104,Mexican
+105,Chinese
+105,Vietnamese
+105,American
+106,Hot Dogs
+106,Burgers
+106,Food Delivery Services
+107,Ramen
+107,Izakaya
+107,Hawaiian
+108,Asian Fusion
+108,Indonesian
+109,Breakfast & Brunch
+109,Asian Fusion
+109,Thai
+110,Mexican
+111,Bars
+111,Burgers
+111,Music Venues
+112,Cafes
+112,New American
+112,Sandwiches
+113,German
+113,American
+113,Beer Bar
+114,Japanese
+114,Sushi Bars
+115,Korean
+115,Barbeque
+116,Mexican
+116,Seafood
+116,Breakfast & Brunch
+117,Seafood
+117,Cajun/Creole
+117,New American
+118,Mexican
+118,Filipino
+118,Asian Fusion
+119,Juice Bars & Smoothies
+119,Kombucha
+119,Acai Bowls
+120,Breakfast & Brunch
+120,Cafes
+121,Cafes
+121,Coffee & Tea
+121,Japanese
+122,Japanese
+122,Sushi Bars
+123,Thai
+124,Mexican
+125,Caterers
+125,Tacos
+126,Tacos
+127,Tacos
+128,Indian
+128,Pizza
+128,Sports Bars
+129,Ramen
+129,Noodles
+129,Soup
+130,Mexican
+131,Mexican
+132,Tacos
+132,Wine Bars
+132,Beer Bar
+133,Bakeries
+133,Cafes
+133,Desserts
+134,Vietnamese
+135,Southern
+135,Cajun/Creole
+135,American
+136,Bars
+136,Breakfast & Brunch
+136,American
+137,New American
+137,Cocktail Bars
+137,Desserts
+138,Asian Fusion
+139,Gastropubs
+139,Bars
+140,Wine Bars
+140,Mediterranean
+140,Persian/Iranian
+141,Cocktail Bars
+141,Breakfast & Brunch
+141,American
+142,Indian
+142,Vegetarian
+142,Vegan
+143,Chinese
+143,Asian Fusion
+143,Noodles
+144,Pizza
+144,Italian
+144,Breakfast & Brunch
+145,Italian
+145,Pizza
+146,Soul Food
+146,Vegan
+146,Food Trucks
+147,Burgers
+148,Chinese
+149,Mediterranean
+150,Mexican

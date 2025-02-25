@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,address1,city,state,zip_code,country,rating,review_count,price
+1,20 spot,3565 20th St,San Francisco,CA,94110.0,US,4.3,270.0,$$
+2,3rd cousin,919 Cortland Ave,San Francisco,CA,94110.0,US,4.1,476.0,$$$$
+3,adam’s grub shack,1136 Valencia St,San Francisco,CA,94110.0,US,4.9,12.0,
+4,aedan koji kitchen,613 York St,San Francisco,CA,94110.0,US,4.9,30.0,$$
+5,al carajo,3224 1/2 22nd St,San Francisco,CA,94110.0,US,4.8,182.0,$$
+6,al's super cafe,3286 Mission St,San Francisco,CA,94110.0,US,3.6,195.0,$$
+7,alnico,1050 Valencia St,San Francisco,CA,94110.0,US,4.3,837.0,$$
+8,antigua guatemala restaurant,2732 24th St,San Francisco,CA,94110.0,US,4.8,12.0,
+9,aramex,2020 Mission St,San Francisco,CA,94110.0,US,3.1,38.0,
+10,bac lieu restaurant,3216 Mission St,San Francisco,CA,94110.0,US,4.3,366.0,$$
+11,bandit dolores,499 Dolores St,San Francisco,CA,94110.0,US,4.3,39.0,$$
+12,bao,590 Valencia St,San Francisco,CA,94110.0,US,4.3,354.0,$$
+13,basa seafood express,3064 24th St,San Francisco,CA,94110.0,US,4.5,1099.0,$$
+14,belmar - la gallinita meat market,2989 24th St,San Francisco,CA,94110.0,US,4.3,91.0,$
+15,beloved cafe,3338 24th St,San Francisco,CA,94110.0,US,4.3,357.0,$$
+16,beretta valencia,1199 Valencia St,San Francisco,CA,94110.0,US,4.0,4215.0,$$
+17,bernal star,410 Cortland Ave,San Francisco,CA,94110.0,US,3.8,379.0,$$
+18,blue plate,3218 Mission St,San Francisco,CA,94110.0,US,4.2,1607.0,$$$
+19,bobo's bistro,600 York St,San Francisco,CA,94110.0,US,4.0,69.0,$$
+20,"bon, nene",2850 21st St,San Francisco,CA,94110.0,US,4.2,417.0,$$
+21,boogaloos,3296 22nd St,San Francisco,CA,94110.0,US,3.8,1184.0,$$
+22,breakfast little,3275 22nd St,San Francisco,CA,94110.0,US,4.7,528.0,$$
+23,buddy,3115 22nd St,San Francisco,CA,94110.0,US,4.4,93.0,
+24,café de olla,3388 19th St,San Francisco,CA,94110.0,US,4.8,87.0,$$
+25,cafe gonzalez,1600 Guerrero St,San Francisco,CA,94110.0,US,5.0,31.0,$
+26,cafe la taza,2475 Mission St,San Francisco,CA,94110.0,US,3.9,423.0,$$
+27,casa de la condesa restaurant,2763 Mission St,San Francisco,CA,94110.0,US,4.4,99.0,$$
+28,cazuela comida mexicana,3771 Mission St,San Francisco,CA,94110.0,US,4.2,5.0,
+29,cha-ya san francisco,762 Valencia St,San Francisco,CA,94110.0,US,4.0,1304.0,$$
+30,chava's restaurant,2839 Mission St,San Francisco,CA,94110.0,US,3.8,192.0,$$
+31,chic n' time,807 Valencia St,San Francisco,CA,94110.0,US,4.8,299.0,$$
+32,chili cha cha 2,3166 24th St,San Francisco,CA,94110.0,US,4.0,450.0,$$
+33,china express & donut,2798 Mission St,San Francisco,CA,94110.0,US,3.4,14.0,
+34,chome,3601 26th St,San Francisco,CA,94110.0,US,4.5,379.0,$$$
+35,chuck's takeaway,3332 18th St,San Francisco,CA,94110.0,US,3.9,71.0,$$
+36,chuy's fiestas,2341 C Folsom St,San Francisco,CA,94110.0,US,4.5,265.0,$$
+37,cocina mamá cholita,3471 Mission St,San Francisco,CA,94110.0,US,4.9,169.0,$$
+38,coco's ramen,3319 Mission St,San Francisco,CA,94110.0,US,3.8,567.0,$$
+39,craftsman and wolves,746 Valencia St,San Francisco,CA,94110.0,US,4.1,1810.0,$$
+40,cuisine of nepal,3486 Mission St,San Francisco,CA,94110.0,US,4.7,739.0,$$
+41,deccan house,1142 Valencia St,San Francisco,CA,94110.0,US,3.8,736.0,$$
+42,destapas,2708 24th St,San Francisco,CA,94110.0,US,4.6,153.0,$$$
+43,district tea,2154 Mission St,San Francisco,CA,94110.0,US,4.3,449.0,$
+44,dumpling story,694 Valencia St,San Francisco,CA,94110.0,US,4.5,32.0,
+45,echigo home cook,870 Valencia St,San Francisco,CA,94110.0,US,4.6,46.0,
+46,el buen comer,3435 Mission St,San Francisco,CA,94110.0,US,4.3,393.0,$$
+47,el fuego,1525 Cortland Ave,San Francisco,CA,94110.0,US,4.7,204.0,
+48,el jacal mexican grill,800 Cortland Ave,San Francisco,CA,94110.0,US,3.9,18.0,
+49,el rey taquiza artesanal,2491 Mission St,San Francisco,CA,94110.0,US,4.6,99.0,
+50,el techo,2516 Mission St,San Francisco,CA,94110.0,US,3.9,2799.0,$$
+51,el tomate restaurant,2904 24th St,San Francisco,CA,94110.0,US,4.2,94.0,$$
+52,emmy's spaghetti shack,3230 Mission St,San Francisco,CA,94110.0,US,4.2,799.0,$$
+53,ernest,1890 Bryant St,San Francisco,CA,94110.0,US,4.3,491.0,$$$
+54,esperpento,3295 22nd St,San Francisco,CA,94110.0,US,3.7,1434.0,$$
+55,etcetera wine bar,795 Valencia St,San Francisco,CA,94110.0,US,4.1,473.0,$$
+56,flour + water,2401 Harrison St,San Francisco,CA,94110.0,US,3.8,2663.0,$$$
+57,foliage,300 Precita Ave,San Francisco,CA,94110.0,US,4.2,330.0,$$$$
+58,foreign cinema,2534 Mission St,San Francisco,CA,94110.0,US,4.0,5607.0,$$$
+59,fort point valencia,,,,,,,,
+60,four chairs,3282 Mission St,San Francisco,CA,94110.0,US,4.3,562.0,$$
+61,frisco flavor,3331 24th St,San Francisco,CA,94110.0,US,3.9,10.0,
+62,fumi japanese curry & ramen,3303 Mission St,San Francisco,CA,94110.0,US,4.1,519.0,$$
+63,go duck yourself,439 Cortland Ave,San Francisco,CA,94110.0,US,4.3,33.0,
+64,good good culture club,3560 18th St,San Francisco,CA,94110.0,US,4.2,414.0,$$$
+65,gyros and tzatziki,3111 24th St,San Francisco,CA,94110.0,US,4.3,139.0,
+66,handroll project,598 Guerrero St,San Francisco,CA,94110.0,US,4.0,286.0,$$$$
+67,healthyish republic,2990 24th St,San Francisco,CA,94110.0,US,4.6,147.0,$$
+68,heirloom cafe,2500 Folsom St,San Francisco,CA,94110.0,US,4.2,519.0,$$$
+69,indochine vegan,508 Valencia St,San Francisco,CA,94110.0,US,3.7,453.0,$$
+70,j & e restaurant,2537 24th St,San Francisco,CA,94110.0,US,3.7,123.0,$
+71,jake's steaks,581 Valencia St,San Francisco,CA,94110.0,US,4.2,143.0,$$
+72,kahnfections,3321 20th St,San Francisco,CA,94110.0,US,4.6,260.0,$
+73,kazan,2809 24th St,San Francisco,CA,94110.0,US,4.3,626.0,$$
+74,kitava,2011 Mission St,San Francisco,CA,94110.0,US,4.4,624.0,$$
+75,kiwa kitchen,615 Cortland Ave,San Francisco,CA,94110.0,US,4.9,21.0,
+76,ko,2193 Mission St,San Francisco,CA,94110.0,US,4.6,51.0,
+77,krispy krunchy chicken,599 S Van Ness Ave,San Francisco,CA,94110.0,US,3.8,71.0,$
+78,la espiga de oro,2916 24th St,San Francisco,CA,94110.0,US,4.1,214.0,$
+79,la oaxaqueña,2128 Mission St,San Francisco,CA,94110.0,US,4.0,591.0,$
+80,la palma mexicatessen,2884 24th St,San Francisco,CA,94110.0,US,4.2,736.0,$$
+81,la taqueria,2889 Mission St,San Francisco,CA,94110.0,US,4.1,4697.0,$$
+82,la vaca birria,2962 24th St,San Francisco,CA,94110.0,US,4.4,163.0,$$
+83,lazy bear,3416 19th St,San Francisco,CA,94110.0,US,4.5,814.0,$$$$
+84,loltún restaurant,2471 Mission St,San Francisco,CA,94110.0,US,4.3,22.0,
+85,los yaquis,3214 Folsom St,San Francisco,CA,94110.0,US,4.3,101.0,
+86,lost resort,2736 20th St,San Francisco,CA,94110.0,US,4.4,212.0,$$
+87,luisa's restaurant,1001 Guerrero St,San Francisco,CA,94110.0,US,4.7,110.0,
+88,mi yucatan,2845 Mission St,San Francisco,CA,94110.0,US,3.9,61.0,$$
+89,mission bowling club,3176 17th St,San Francisco,CA,94110.0,US,4.0,672.0,$$
+90,mission curry house,2434 Mission St,San Francisco,CA,94110.0,US,4.4,237.0,$$
+91,moki's sushi & pacific grill,615 Cortland Ave,San Francisco,CA,94110.0,US,3.9,511.0,$$
+92,noeteca wine bar,1551 Dolores St,San Francisco,CA,94110.0,US,4.3,518.0,$$
+93,nonna's ristorante italiano,2020 Mission St,San Francisco,CA,94110.0,US,2.0,17.0,
+94,noodle girl,2948 Folsom St,San Francisco,CA,94110.0,US,3.8,9.0,
+95,nute's,903 Cortland Ave,San Francisco,CA,94110.0,US,4.3,372.0,$$
+96,old jerusalem restaurant,2966 Mission St,San Francisco,CA,94110.0,US,4.2,1238.0,$$
+97,penny roma,3000 20th St,San Francisco,CA,94110.0,US,3.9,345.0,
+98,petra mediterranean,680 Valencia St,San Francisco,CA,94110.0,US,3.9,20.0,
+99,pho day,59 30th St,San Francisco,CA,94110.0,US,4.1,138.0,$$
+100,piglet & co,2170 Mission St,San Francisco,CA,94110.0,US,4.2,135.0,
+101,pinche sushi,564 S Van Ness Ave,San Francisco,CA,94110.0,US,4.6,37.0,
+102,precita park cafe,500 Precita Ave,San Francisco,CA,94110.0,US,3.5,487.0,$$
+103,prubechu,2224 Mission St,San Francisco,CA,94110.0,US,4.4,649.0,$$
+104,puerto alegre,546 Valencia St,San Francisco,CA,94110.0,US,3.8,1143.0,$$
+105,punjab restaurant,2838 24th St,San Francisco,CA,94110.0,US,3.9,258.0,$
+106,quik dog,3010 20th St,San Francisco,CA,94110.0,US,4.3,7.0,
+107,ramenwell,3378 18th St,San Francisco,CA,94110.0,US,4.1,468.0,$$
+108,rasa rasa kitchen,2200 Bryant St,San Francisco,CA,94110.0,US,4.3,46.0,
+109,raw sugar factory,525 Valencia St,San Francisco,CA,94110.0,US,3.9,797.0,$$
+110,regalito rosticeria,3481 18th St,San Francisco,CA,94110.0,US,3.7,748.0,$$
+111,rite spot cafe,2099 Folsom St,San Francisco,CA,94110.0,US,3.6,155.0,$
+112,robin's cafe,3153 17th St,San Francisco,CA,94110.0,US,4.2,94.0,$$
+113,rosamunde sausage grill,2832 Mission St,San Francisco,CA,94110.0,US,3.8,1004.0,$$
+114,sake bomb,2878 24th St,San Francisco,CA,94110.0,US,4.3,190.0,$$
+115,san ho won,2170 Bryant St,San Francisco,CA,94110.0,US,4.5,605.0,$$$$
+116,sanjalisco mexican restaurant,901 S Van Ness Ave,San Francisco,CA,94110.0,US,4.2,1009.0,$$
+117,seafood station,803 Cortland Ave,San Francisco,CA,94110.0,US,4.5,155.0,$$
+118,señor sisig,990 Valencia St,San Francisco,CA,94110.0,US,4.1,534.0,$$
+119,sidewalk juice,3287 21st St,San Francisco,CA,94110.0,US,4.1,348.0,$
+120,stable cafe,2128 Folsom St,San Francisco,CA,94110.0,US,4.0,656.0,$$
+121,stonemill matcha,561 Valencia St,San Francisco,CA,94110.0,US,4.2,1389.0,$$
+122,sushi hon,2598 Harrison St,San Francisco,CA,94110.0,US,4.3,527.0,$$$$
+123,sweet basil thai cuisine,3221 Mission St,San Francisco,CA,94110.0,US,3.4,408.0,$$
+124,taco los altos,737 Cortland Ave,San Francisco,CA,94110.0,US,3.8,268.0,$
+125,tacolicious,741 Valencia St,San Francisco,CA,94110.0,US,3.7,1653.0,$$
+126,tacos del barrio,2817 24th St,San Francisco,CA,94110.0,US,4.4,98.0,$$
+127,tacos el patrón,1500 S Van Ness Ave,San Francisco,CA,94110.0,US,4.2,882.0,$$
+128,tadka indian restaurant,3066 24th St,San Francisco,CA,94110.0,US,4.4,123.0,$$
+129,taishoken san francisco,665 Valencia St,San Francisco,CA,94110.0,US,4.5,383.0,$$
+130,taqueria cancún,2288 Mission St,San Francisco,CA,94110.0,US,4.0,2190.0,$$
+131,taqueria el buen sabor,699 Valencia St,San Francisco,CA,94110.0,US,4.1,716.0,$$
+132,taqueria vallarta,3033 24th St,San Francisco,CA,94110.0,US,4.0,942.0,$$
+133,tartine bakery,600 Guerrero St,San Francisco,CA,94110.0,US,4.2,8842.0,$$
+134,thanh tam ii,577 Valencia St,San Francisco,CA,94110.0,US,3.6,495.0,$$
+135,the front porch,65 29th St,San Francisco,CA,94110.0,US,3.9,3253.0,$$
+136,the liberties,998 Guerrero St,San Francisco,CA,94110.0,US,3.5,357.0,$$
+137,the morris,2501 Mariposa St,San Francisco,CA,94110.0,US,4.5,417.0,$$$
+138,the spice jar,2500 Bryant St,San Francisco,CA,94110.0,US,4.2,465.0,$$
+139,the sycamore,2140 Mission St,San Francisco,CA,94110.0,US,3.9,816.0,$$
+140,tinto,1152 Valencia St,San Francisco,CA,94110.0,US,4.9,14.0,
+141,true laurel,753 Alabama St,San Francisco,CA,94110.0,US,4.2,395.0,$$
+142,udupi palace,1007 1/2 Valencia St,San Francisco,CA,94110.0,US,3.9,1526.0,$$
+143,united dumplings,525 Cortland Ave,San Francisco,CA,94110.0,US,4.3,450.0,$$
+144,valencia pizza & pasta,801 Valencia St,San Francisco,CA,94110.0,US,3.9,493.0,$$
+145,vega,419 Cortland Ave,San Francisco,CA,94110.0,US,4.1,729.0,$$
+146,vegan mob,701 Valencia St,San Francisco,CA,94110.0,US,3.8,58.0,$$
+147,wesburger 'n' more,2240 Mission St,San Francisco,CA,94110.0,US,3.9,761.0,$$
+148,wok & go,2700 24th St,San Francisco,CA,94110.0,US,3.0,203.0,$
+149,yasmin,799 Valencia St,San Francisco,CA,94110.0,US,4.2,160.0,$$
+150,yucatasia,2164 Mission St,San Francisco,CA,94110.0,US,4.0,80.0,$
