@@ -17,6 +17,16 @@ To set up the environment, install dependencies from `requirements.txt`:
 pip install -r requirements.txt
 ```
 
+### Environment Variables
+Before running the application, create a .env file and add the following credentials:
+```bash
+GROQ_API_KEY=your_groq_api_key
+NEO4J_URI=your_neo4j_uri
+NEO4J_USER=your_neo4j_username
+NEO4J_PASSWORD=your_neo4j_password
+```
+You need an account on GROQ LLM and Neo4j to run this application.
+
 ## Project Structure
 ```
 📂 chatbot
@@ -73,9 +83,9 @@ python app.py
 This launches a **Streamlit UI** where users can interact with the chatbot.
 
 ## Future Enhancements
-- **Asynchronous execution with LangGraph** to reduce response latency
-- **Trend & Menu Innovation Agent** to analyze real-time food trends
-- **Multi-agent coordination** for improved retrieval efficiency
+- **Asynchronous execution with LangGraph**: Currently, retrieval is done sequentially. Future improvements will enable parallel processing of FAISS, structured DB, and Neo4j queries to reduce latency.
+- **Trend & Menu Innovation Agent**: A dedicated agent will be developed to track real-time food trends, analyzing ingredient popularity and menu innovation.
+- **Support for Additional Data Sources**: Integration with restaurant review APIs, food blogs, and social media for trend tracking.
 
 ## Credits
 Developed for the **Menudata Challenge** by **Dhiraj Pimparkar**.
