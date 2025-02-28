@@ -22,6 +22,7 @@ def handle_chat(user_query):
             st.markdown(user_query)
 
         ai_response = get_response(user_query)  # ✅ Calls function from chatbot.get_response
+        print("AI Response:", ai_response)
 
         st.session_state.chat_history.append(("User", user_query))
         st.session_state.chat_history.append(("AI", ai_response))

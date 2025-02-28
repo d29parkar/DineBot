@@ -23,14 +23,15 @@ def test_workflow(user_input):
     print(f"\n🚀 Testing Input: {user_input}")
 
     # Initialize correct state
-    state = State(
-        input=user_input,
-        intent="",
-        structured_results=[],
-        faiss_results=[],
-        google_results=[],
-        response=""
-    )
+    state = {
+        "input": user_input,
+        "intent": "",
+        "structured_results": [],
+        "faiss_results": [],
+        "google_results": [],
+        "llm_made_graph_results": [],
+        "response": ""
+    }
 
     print("\n🛠️ Initial State:")
     print(json.dumps(state, indent=2))  # Pretty-print initial state
@@ -44,3 +45,7 @@ def test_workflow(user_input):
 if __name__ == "__main__":
     visualize_workflow()  # Save the LangGraph workflow as a PNG
     test_workflow("Which restaurants serve gluten-free pasta in San Francisco?")
+    test_workflow("Give me a summary of the latest trends around desserts in San Francisco.")
+    test_workflow("What is the history of sushi, and which restaurants in San Francisco are known for it?")
+    test_workflow("Compare the average menu price of vegan restaurants in San Francisco vs.Mexican restaurants")
+    test_workflow("“How has the use of saffron in desserts changed over the last year, according to restaurant menus or news articles?")

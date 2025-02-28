@@ -9,4 +9,5 @@ __pycache__/
 .env
  
 # Ignore large file
-faiss_index.binfaiss_index.bin 
+faiss_index.bin
+faiss_index_2.bin 

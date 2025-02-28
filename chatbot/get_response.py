@@ -8,6 +8,8 @@ def get_response(user_input):
         "structured_results": [],
         "faiss_results": [],
         "google_results": [],
+        "graph_results": [],
+        "llm_made_graph_results": [],
         "response": "",
     }
     return app.invoke(state)["response"]

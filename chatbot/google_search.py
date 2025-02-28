@@ -1,78 +1,88 @@
 import requests
+import wikipedia
 from bs4 import BeautifulSoup
 from googlesearch import search
 from chatbot.state import State
-from chatbot.config import llm, slm  # Use a smaller LLM for extraction
-
-def google_search(state: State) -> State:
-    """Fetches top Google search results if no internal results are found, updating state."""
-    user_query = state["input"]
-    state["google_results"] = [url for url in search(user_query, num_results=3)]
-    return state
+from chatbot.config import slm
 
 
-def extract_page_content(url):
+def fetch_page_content(url):
     """Fetches and extracts meaningful text from a webpage."""
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers, timeout=5)
-        response.raise_for_status()
+        if response.status_code != 200:
+            return f"Could not fetch {url} (HTTP {response.status_code})"
 
-        # Parse HTML and extract paragraphs
         soup = BeautifulSoup(response.text, "html.parser")
         paragraphs = soup.find_all("p")
-        extracted_text = "\n".join(p.get_text().strip() for p in paragraphs if len(p.get_text().strip()) > 50)
+        extracted_text = "\n".join(
+            p.get_text().strip() for p in paragraphs if len(p.get_text().strip()) > 50
+        )
 
-        # Return first 1000 characters to ensure relevant context
-        return extracted_text if extracted_text else "Content not available."
-    
+        return " ".join(extracted_text.split()) if extracted_text else None  # Skip if no content
+
     except Exception as e:
-        return f"Could not extract content: {str(e)}"
+        return None  # Skip this result
+
 
 def google_search(state: State) -> State:
-    """Fetches Google search results and extracts structured restaurant-related entities."""
+    """Performs Google search, fetches top 3 results, summarizes based on user query and intent."""
     user_query = state["input"]
+    intent = state["intent"]
+
+    # Perform Google Search
     search_results = list(search(user_query, num_results=3))
+    page_contents = [fetch_page_content(url) for url in search_results if fetch_page_content(url)]
+    structured_summary = ""
 
-    extracted_data = []
-    content_snippets = []
+    for page_content in page_contents:
+    # Construct a single, elaborate prompt
+        summary_prompt = f"""
+        You are an advanced AI designed to extract key insights from a webpage based on a specific user query type and user's intent.
+        Read the provided webpage content and generate a structured summary that captures the most relevant information according to the query type. Follow the corresponding guidelines:
 
-    for url in search_results:
-        content = extract_page_content(url)
-        extracted_data.append(f"🔗 **[{url}]({url})**")
-        content_snippets.append(f"Source: {url}\nExtracted Content:\n{content}")
-
-    if content_snippets:
-        # **LLM Call for Entity Extraction**
-        entity_extraction_prompt = f"""
-        You are an advanced entity extraction assistant. Below is some web content related to restaurants, their menus, and their ingredients using blogs or websites.
-        
         **User Query**: "{user_query}"
+        **Intent**: "{intent}"
 
-        **Extracted Content**:
-        {content_snippets}
-        
-        **Task**:
-        1. Identify all **restaurant names** mentioned.
-        2. Extract the **dishes/food items** each restaurant is associated with.
-        3. Preserve semantic meaning:
-           - If a restaurant is mentioned **positively** for a certain dish, highlight that.
-           - If it is mentioned **negatively** (e.g., "this place does NOT have gluten-free options"), retain that information.
-        4. Format the response as structured insights, using bullet points.
-        5. Preserve the **source website/blog name** for each restaurant.
+        **Extracted Web Content**:
+        {page_content}
 
-        **Output Format Example**:
-        Source: {url}
-        - **Restaurant A**: Offers gluten-free pasta, highly recommended.
-        - **Restaurant B**: Popular spot, but does not offer gluten-free options.
-        - **Restaurant C**: Known for vegan pizza and salads.
+        ### **Task:**
+        if the intent of query is Ingredient-Based Discovery (e.g., 'Which restaurants serve gluten-free pizza?':
+        - Identify and list all relevant restaurants mentioned.
+        - Extract key details such as name, location, dish recommendations, menu highlights, pricing, and dietary accommodations.
+        - Provide direct links or references for further exploration.
 
-        **Now extract and format the response. Return only the structured insights, no extra text.**
+        if the intent of query is Trending Insights & Explanations (e.g., 'Latest trends in desserts in San Francisco'):
+        - Summarize emerging trends, popular ingredients, and new restaurant offerings.
+        - Identify key influencers, chefs, or brands driving the trend.
+        - Include sources or data points supporting the trend, like recent mentions in news articles, social media, or menu updates.
+
+        if the intent of query is Historical or Cultural Context (e.g., 'History of sushi and best sushi restaurants nearby')
+        - Extract important historical dates, key figures, and the cultural evolution of the dish.
+        - Summarize any regional or stylistic variations.
+        - Identify highly-rated or historically significant restaurants that serve the dish, including any notable chef contributions.
+
+        if the intent of query is Comparative Analysis (e.g., 'Compare vegan restaurant prices in SF vs. Mexican restaurants')
+        - Extract and compare relevant statistics, such as average menu prices, customer ratings, or portion sizes.
+        - Provide cost-of-living context or external economic factors that may influence pricing.
+        - If data is missing, suggest alternative ways to interpret the comparison, such as chef interviews or food critic reviews.
+
+        if the intent of query is Menu Innovation & Flavor Trend (e.g., 'How has the use of saffron in desserts changed?')
+        - Identify frequency and variations of the ingredient on menus over time.
+        - Capture mentions in culinary blogs, food industry reports, or chef interviews.
+        - Provide context on why the trend is rising or declining, including cultural influences or seasonal availability.
+
+        Ensure the summary is structured, fact-based, and concise while maintaining clarity and relevance. If multiple pages are available, extract only the most critical insights to avoid redundancy.
         """
 
-        structured_response = slm.invoke(entity_extraction_prompt).content.strip()
-        state["google_results"] = extracted_data + [structured_response] 
-    else:
-        state["google_results"] = ["No relevant external sources found."]
-    
+        # Generate summary using LLM
+        structured_summary += slm.invoke(summary_prompt[:6000]).content.strip()
+
+    # Store results in state
+    state["google_results"] = {
+        "search_results": search_results,
+        "summaries": structured_summary,  # Storing the final structured summary
+    }
     return state
