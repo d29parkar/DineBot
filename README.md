@@ -78,7 +78,7 @@ Ensure that `cleaned_menu_data.csv` is available in the `/data` folder.
 ### 2. Start the Chatbot
 Run the chatbot using:
 ```bash
-python app.py
+streamlit run app.py
 ```
 This launches a **Streamlit UI** where users can interact with the chatbot.
 
