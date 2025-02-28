@@ -8,7 +8,7 @@ This project implements an **Agentic AI** chatbot that provides restaurant-relat
 - **Structured SQL-like database queries** for precise restaurant details
 - **Knowledge Graph search (Neo4j)** for multi-hop reasoning
 - **Google Search API** for real-time external data retrieval
-- **LangGraph for Asynchronous Processing** to optimize multi-agent retrieval
+- **LangGraph for Agentic Framework** to optimize multi-agent retrieval
 - **Conversational UI with Streamlit**
 
 ## Installation
