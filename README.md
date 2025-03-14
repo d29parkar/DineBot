@@ -1,4 +1,4 @@
-# Agentic AI Bot for Restaurant Insights
+# Agentic AI System for Restaurant Insights
 
 ## Overview
 This project implements an **Agentic AI** chatbot that provides restaurant-related insights, including menu recommendations, ingredient discovery, and trending food insights. It integrates structured and unstructured data retrieval using **FAISS**, **SQL-like database queries**, **Knowledge Graph search**, and **Google Search API** to ensure comprehensive responses.
